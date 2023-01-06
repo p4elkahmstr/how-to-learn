@@ -246,7 +246,7 @@
 .table_theme_dark {
   padding-bottom: 90px;
   z-index: 1;
-  padding-bottom: 0;
+  border: solid red 2px;
 }
 
 /* и элемента с модификатором вида ключ-значение */
