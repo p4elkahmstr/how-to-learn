@@ -251,11 +251,13 @@
 }
 
 .section-title__theme_dark {
+  position: relative;
   margin-top: 90px;
   z-index: 2;
 }
 
 .section-subtitle__theme_dark {
+  position: relative;
   z-index: 2;
 }
 
