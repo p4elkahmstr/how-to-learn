@@ -1,0 +1,12 @@
+.video__iframe {
+  margin-right: 20px;
+}
+
+.video__iframe:last-child {
+  margin-right: 0;
+}
+
+.video__iframe:hover {
+  opacity: 0.5;
+  transition: 0.5s ease;
+}

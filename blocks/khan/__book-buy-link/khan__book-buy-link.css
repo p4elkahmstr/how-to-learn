@@ -1,0 +1,14 @@
+.khan__book-buy-link {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  color: #2f80ed;
+  text-decoration: none;
+  position: absolute;
+  left: 656px;
+}
+
+.khan__book-buy-link:hover {
+  opacity: 0.5;
+  transition: 0.5s ease;
+}
